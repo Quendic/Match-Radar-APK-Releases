@@ -2,17 +2,17 @@
 
 Modern, hızlı ve kullanıcı dostu arayüzü ile futbol heyecanını Android TV ekranlarınıza taşıyan özel bir IPTV uygulamasıdır. 
 
-## 🌟 Öne Çıkan Özellikler
+## 🌟 Öne Çıkan Özellikler (v2.1 Güncellemesi)
 
-- **Gelişmiş Lig Seçimi:** Dünya çapındaki popüler futbol liglerinden (Trendyol Süper Lig, Premier League, La Liga, Serie A vb.) sadece takip etmek istediklerinizi seçerek ana ekranınızı özelleştirin.
-- **TV Odaklı Tasarım:** Android TV kumandası ile akıcı gezinme için sıfırdan tasarlanmış, geniş ekranlarda mükemmel görünen modern arayüz.
-- **M3U Desteği:** Kendi M3U listenizi URL veya dosya yoluyla kolayca ekleyin.
-- **Akıllı Kanal Eşleştirme:** Eklediğiniz listedeki kanalları otomatik olarak analiz eder ve seçtiğiniz liglerdeki günün maçlarıyla eşleştirir.
-- **Hızlı Erişim:** Gereksiz karmaşadan arındırılmış, doğrudan maçlara odaklanan kompakt card tasarımı.
+- **3 Günlük Ücretsiz Deneme:** Yeni kullanıcılar için otomatik olarak başlayan 3 günlük deneme süresi sistemi eklendi.
+- **2026 Tasarım Dili:** Yeni tasarım standartlarına (Koyu Lacivert / Gökyüzü Mavisi) geçildi.
+- **Premium Takip Sistemi:** Profil menüsünde deneme süresi durumu ve kalan gün bilgisi artık anlık olarak görülebiliyor.
+- **Modernize Edilmiş Sayfalar:** Giriş ekranı, Premium kontrol ve M3U Setup sayfaları tamamen yeni tasarım diline taşındı.
+- **Gelişmiş Kumanda Navigasyonu:** D-pad geçişleri ve odaklanma iyileştirmeleri ile daha akıcı bir TV deneyimi sağlandı.
 
 ## 🚀 Kurulum
 
-1. En güncel APK dosyasını [Releases](../../releases) bölümünden indirin.
+1. En güncel APK dosyasını (**v2.1**) [Releases](../../releases) bölümünden indirin.
 2. Android TV'nize dosyayı aktarın ve yükleyin.
 3. Uygulamayı açın, M3U listenizi girin ve favori liglerinizi seçerek kullanmaya başlayın.
 
