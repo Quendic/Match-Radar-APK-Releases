@@ -1,6 +1,6 @@
-# Günün Maçları - Android TV IPTV Uygulaması
+# Match Radar - Android TV IPTV Uygulaması
 
-Modern, hızlı ve kullanıcı dostu arayüzü ile futbol heyecanını Android TV ekranlarınıza taşıyan özel bir IPTV uygulamasıdır. 
+Modern, hızlı ve kullanıcı dostu arayüzü ile futbol heyecanını Android TV ekranlarınıza taşıyan **Match Radar** uygulamasının resmi APK deposudur.
 
 ## 🌟 Öne Çıkan Özellikler (v2.3 Güncellemesi)
 
