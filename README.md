@@ -2,15 +2,14 @@
 
 Modern, hızlı ve kullanıcı dostu arayüzü ile futbol heyecanını Android TV ekranlarınıza taşıyan **Match Radar** uygulamasının resmi APK deposudur.
 
-## 🌟 Öne Çıkan Özellikler (v2.7 Güncellemesi)
+## 🌟 Öne Çıkan Özellikler (v2.6 Güncellemesi)
 
-- **Ayrıştırma Hatası Giderildi:** v2.6 sürümünde ortaya çıkan ve yayınların açılmasına engel olan M3U ayrıştırma hatası tamamen düzeltildi.
-- **BeIN Sports Daha Güçlü:** "beın" gibi noktasız i içeren kanal isimlerini algılama sistemi stabilize edildi.
-- **Performans:** Kanal eşleştirme ve yükleme süreçleri yeniden optimize edildi.
+- **M3U Ayrıştırma Hatası Giderildi:** Yayınların açılmasına engel olan yapısal hata düzeltildi ve kararlılık artırıldı.
+- **BeIN Sports Daha Güçlü:** "beın" gibi noktasız i içeren kanal isimlerini algılama sistemi eklendi.
+- **Grup Filtreleme:** "Kapalı Kanallar" grubu otomatik olarak filtrelendi.
+- **Performans:** M3U ayrıştırma hızı artırıldı ve bellek kullanımı optimize edildi.
 
-## 🌟 Geçmiş Sürüm Özellikleri (v2.6)
-
-- **M3U Filtreleme:** "Kapalı Kanallar" grubu altındaki sorunlu kanallar otomatik olarak filtrelendi.
+## 🌟 Geçmiş Sürüm Özellikleri (v2.4)
 
 - **Google Sign-In Fix:** "ID Token Expired" ve kimlik doğrulama hataları tamamen giderildi.
 - **Sunucu Bazlı Dinamik Tarih:** Uygulama sunucu saatini (`Europe/Istanbul`) kullanıyor.
